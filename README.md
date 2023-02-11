@@ -24,7 +24,7 @@ The steps for this homework are divided into the following sections:
 
 ### Step 1: Create a Joint Savings Account Contract in Solidity
 
-1. From the provided [starter code](Starter_Code), open the Solidity file named `joint_savings.sol` in the Remix IDE.
+1. In the Remix IDE, create a Solidity file named `joint_savings.sol`
 
 2. Define a new contract named `JointSavings`.
 
