@@ -10,7 +10,7 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 * The completed Solidity `JointSavings` smart contract.
 
-* A folder named `Execution_Results` that contains at least eight images. These images should confirm that the deposit and withdrawal transactions, which are designed to test the `JointSavings` functionality in the JavaScript VM, worked as expected.
+* A Markdown file named `Execution_Results` that contains at least eight images. These images should confirm that the deposit and withdrawal transactions, which are designed to test the `JointSavings` functionality in the JavaScript VM, worked as expected.
 
 ## Instructions
 
@@ -70,7 +70,7 @@ The steps for this homework are divided into the following sections:
 
 ### Step 3: Interact with Your Deployed Smart Contract
 
-Now that your contract is deployed, it’s time to test its functionality! After each step, capture a screenshot of the execution, and then save it in a folder named `Execution_Results`. You’ll share this folder with your final submission.
+Now that your contract is deployed, it’s time to test its functionality! After each step, capture a screenshot of the execution, and then save it a file named `Execution_Results.md`. You’ll share this file with your final submission.
 
 To interact with your deployed smart contract, complete the following steps:
 
